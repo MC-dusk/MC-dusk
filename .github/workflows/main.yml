@@ -1,0 +1,24 @@
+name: Generate Snake SVG
+
+on:
+  schedule:
+    - cron: "0 0 * * 1"
+  workflow_dispatch:
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: Generate Snake SVG
+        uses: Platane/snk/svg-only@v2
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/github-contribution-grid-snake.svg
+            assets/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push to GitHub
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: 'Generate Contribution Snake'
