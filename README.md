@@ -5,24 +5,24 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=MC-dusk&column=7&no-frame=true&theme=onedark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=MC-dusk&column=7&no-frame=true">
-    <img alt="GitHub trophy" src="https://github-profile-trophy.vercel.app/?username=MC-dusk&column=7&no-frame=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=MC-dusk&column=7">
+    <img alt="GitHub trophy" src="https://github-profile-trophy.vercel.app/?username=MC-dusk&column=7">
   </picture>
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MC-dusk&show_icons=true&hide_border=true&include_all_commits=true&theme=onedark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=MC-dusk&show_icons=true&hide_border=true&include_all_commits=true">
-    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MC-dusk&show_icons=true&hide_border=true&include_all_commits=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=MC-dusk&show_icons=true&include_all_commits=true">
+    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MC-dusk&show_icons=true&include_all_commits=true">
   </picture>
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MC-dusk&layout=compact&hide_border=true&theme=onedark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MC-dusk&layout=compact&hide_border=true">
-    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MC-dusk&layout=compact&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MC-dusk&layout=compact">
+    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MC-dusk&layout=compact">
   </picture>
 </a>
 
